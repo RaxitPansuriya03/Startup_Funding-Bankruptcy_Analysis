@@ -125,17 +125,7 @@ Open `analysis_queries.sql` directly in **MySQL Workbench** / **DBeaver** to run
 
 ---
 
-## 📁 Repository Structure
 
-```
-startup-funding-bankruptcy-analysis/
-├── README.md                  ← you are here
-├── analysis_queries.sql       ← all 11 analytical queries, cleaned & commented
-└── images/
-    ├── er-diagram.png
-    ├── funding-by-industry.png
-    └── status-distribution.png
-```
 
 ---
 
